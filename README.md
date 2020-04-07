@@ -35,6 +35,6 @@ request citing the following references:
     transforms using min-max interpolation, IEEE Trans. Signal
     Process., vol. 51, no. 2, pp. 560-574, Feb. 2003.
 
-Tested on MATLAB 2019a
+Tested on MATLAB_R2019a
 
 (c) Mohammad Golbabaee
