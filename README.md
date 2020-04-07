@@ -1,1 +1,1 @@
-# LRTV-MRFResnet-for-Magnetic-Resonance-Fingerprinting
+# LRTVMRFResnet-for-Magnetic-Resonance-Fingerprinting
