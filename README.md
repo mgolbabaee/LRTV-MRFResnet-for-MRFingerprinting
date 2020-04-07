@@ -1,1 +1,1 @@
-# LRTV-MRFResnet for Magnetic Resonance Fingerprinting
+# LRTV-MRF-Resnet 
